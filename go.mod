@@ -1,4 +1,4 @@
-module github.com/Danelarrate/go-bookstore
+module github.com/danelarrate/go-bookstore
 
 go 1.20
 
